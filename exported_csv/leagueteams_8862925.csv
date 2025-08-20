@@ -1,0 +1,33 @@
+ovrRating,injuryCount,divName,cityName,teamId,logoId,abbrName,userName,nickName,offScheme,secondaryColor,primaryColor,defScheme,displayName
+90,8,AFC North,Baltimore,759955486,24,BAL,,Ravens,6,0,2364255,18,Ravens
+83,14,AFC North,Pittsburgh,759955489,28,PIT,,Steelers,0,0,15641886,13,Steelers
+83,8,AFC North,Cincinnati,759955458,1,CIN,,Bengals,10,0,16469780,11,Bengals
+84,14,AFC North,Cleveland,759955461,4,CLE,,Browns,0,3218688,16727040,11,Browns
+82,8,AFC South,Jacksonville,759955477,16,JAX,,Jags,10,0,25974,17,Jaguars
+81,12,AFC South,Tennessee,759955491,29,TEN,,Titans,0,5426,4494802,17,Titans
+85,12,AFC South,Houston,759955490,31,HOU,,Texans,0,15401000,135192,19,Texans
+82,12,AFC South,Indianapolis,759955468,9,IND,,Colts,10,16777215,78697,11,Colts
+84,15,AFC East,Miami,759955471,11,MIA,,Phins,0,16534530,36503,18,Dolphins
+87,10,AFC East,New York,759955478,17,NYJ,,Jets,0,16777215,1136448,19,Jets
+79,12,AFC East,New England,759955483,21,NE,,Pats,0,13111342,795456,13,Patriots
+84,7,AFC East,Buffalo,759955459,2,BUF,,Bills,6,13961738,798338,11,Bills
+80,8,AFC West,Las Vegas,759955484,22,LV,,Raiders,0,0,10923696,17,Raiders
+80,8,AFC West,Denver,759955460,3,DEN,,Broncos,4,16534530,664387,14,Broncos
+81,6,AFC West,Los Angeles,759955466,7,LAC,,Bolts,1,16761358,32966,18,Chargers
+89,11,AFC West,Kansas City,759955467,8,KC,,Chiefs,10,15641886,14882871,11,Chiefs
+88,13,NFC North,Detroit,759955479,18,DET,,Lions,5,11581372,30390,14,Lions
+83,6,NFC North,Green Bay,759955481,19,GB,Vix2017,Pack,0,15641886,1846565,19,Packers
+85,9,NFC North,Minnesota,759955492,30,MIN,,Vikes,0,16762415,5187203,18,Vikings
+81,7,NFC North,Chicago,759955457,0,CHI,,Bears,10,15089920,726570,11,Bears
+83,9,NFC South,Atlanta,759955473,13,ATL,,Falcons,0,0,10685741,13,Falcons
+79,11,NFC South,Carolina,759955482,20,CAR,,Panthers,10,11711675,34255,11,Panthers
+81,13,NFC South,New Orleans,759955487,26,NO,,Saints,0,0,13876365,11,Saints
+84,10,NFC South,Tampa Bay,759955462,5,TB,,Bucs,0,4078133,10685741,17,Buccaneers
+84,8,NFC East,Dallas,759955470,10,DAL,,Cowboys,0,11581372,798338,11,Cowboys
+87,5,NFC East,Philadelphia,759955472,12,PHI,,Eagles,10,10660525,18513,13,Eagles
+78,8,NFC East,New York,759955475,15,NYG,,G-Men,10,10685741,74578,18,Giants
+82,3,NFC East,Washington,759955469,25,WAS,,Commanders,8,16758290,5903380,19,Commanders
+89,13,NFC West,San Francisco,759955456,14,SF,,Niners,0,11506269,11141120,19,49ers
+81,12,NFC West,Los Angeles,759955485,23,LAR,,Rams,0,16765184,13716,13,Rams
+83,8,NFC West,Seattle,759955488,27,SEA,,Seahawks,3,6929960,5426,18,Seahawks
+81,10,NFC West,Arizona,759955463,6,ARI,,Cardinals,0,16777215,8847399,13,Cardinals

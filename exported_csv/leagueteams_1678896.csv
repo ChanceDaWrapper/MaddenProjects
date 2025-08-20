@@ -1,0 +1,33 @@
+ovrRating,injuryCount,divName,cityName,teamId,logoId,abbrName,userName,nickName,offScheme,secondaryColor,primaryColor,defScheme,displayName
+86,2,AFC North,Baltimore,758644766,24,BAL,xAAx Podgemania,Ravens,2,0,2364255,11,Ravens
+90,2,AFC North,Pittsburgh,758644769,28,PIT,Hadcore Sloth,Steelers,0,0,15641886,19,Steelers
+87,0,AFC North,Cincinnati,758644738,1,CIN,,Bengals,2,0,16469780,11,Bengals
+85,1,AFC North,Cleveland,758644741,4,CLE,SIEGE A 13,Browns,2,3218688,16727040,20,Browns
+89,3,AFC South,Jacksonville,758644757,16,JAX,Z00ropa,Jags,0,0,25974,17,Jaguars
+83,3,AFC South,Tennessee,758644771,29,TEN,WildHawk307,Titans,7,5426,4494802,13,Titans
+87,3,AFC South,Houston,758644770,31,HOU,Taekwondo826,Texans,5,12849712,5183,11,Texans
+79,3,AFC South,Indianapolis,758644748,9,IND,,Colts,0,16777215,78697,19,Colts
+88,0,AFC East,Miami,758644751,11,MIA,BigDaddyCool78,Phins,5,16534530,36503,14,Dolphins
+89,3,AFC East,New York,758644758,17,NYJ,kamranH5216,Jets,2,16777215,1136448,13,Jets
+86,0,AFC East,New England,758644763,21,NE,BeefSwangin,Pats,1,13111342,795456,11,Patriots
+87,2,AFC East,Buffalo,758644739,2,BUF,Vix2017,Bills,6,13961738,798338,11,Bills
+85,1,AFC West,Las Vegas,758644764,22,LV,GoofyGruber5,Raiders,6,0,10923696,14,Raiders
+87,2,AFC West,Denver,758644740,3,DEN,IM4EV3RZADDY,Broncos,4,16534530,664387,11,Broncos
+91,1,AFC West,Los Angeles,758644746,7,LAC,FRIG0FF69,Bolts,2,16761358,32966,18,Chargers
+85,0,AFC West,Kansas City,758644747,8,KC,BrewBrew3000,Chiefs,0,15641886,14882871,14,Chiefs
+89,3,NFC North,Detroit,758644759,18,DET,madmike08,Lions,2,11581372,30390,17,Lions
+89,2,NFC North,Green Bay,758644761,19,GB,MesaBoogieMan24,Pack,5,15641886,1846565,11,Packers
+85,4,NFC North,Minnesota,758644772,30,MIN,VotiveWord57113,Vikes,2,16762415,5187203,11,Vikings
+88,1,NFC North,Chicago,758644737,0,CHI,Spaz3rdBars,Bears,0,15089920,726570,11,Bears
+89,0,NFC South,Atlanta,758644753,13,ATL,n8faz,Falcons,3,0,10685741,11,Falcons
+86,1,NFC South,Carolina,758644762,20,CAR,CarvalhoRedd,Panthers,0,11711675,34255,12,Panthers
+81,1,NFC South,New Orleans,758644767,26,NO,Basso24_,Saints,0,0,13876365,11,Saints
+89,3,NFC South,Tampa Bay,758644742,5,TB,SCADE0,Bucs,2,4078133,10685741,14,Buccaneers
+87,1,NFC East,Dallas,758644750,10,DAL,ALiLLucky21,Cowboys,0,11581372,798338,14,Cowboys
+84,2,NFC East,Philadelphia,758644752,12,PHI,zocs325,Eagles,6,10660525,18513,13,Eagles
+89,3,NFC East,New York,758644755,15,NYG,AYOS0N,G-Men,2,10685741,74578,18,Giants
+87,4,NFC East,Washington,758644749,25,WAS,NHLPro234258,Commanders,0,16758290,5903380,11,Commanders
+83,1,NFC West,San Francisco,758644736,14,SF,Brotha Kota,Niners,6,11506269,11141120,14,49ers
+77,2,NFC West,Los Angeles,758644765,23,LAR,harryfogel25,Rams,0,16765184,13716,13,Rams
+89,4,NFC West,Seattle,758644768,27,SEA,IamDouG777,Seahawks,5,6929960,5426,14,Seahawks
+83,1,NFC West,Arizona,758644743,6,ARI,TheyCallMeGrube,Cardinals,5,16777215,8847399,13,Cardinals
